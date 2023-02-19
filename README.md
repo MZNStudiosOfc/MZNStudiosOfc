@@ -1,5 +1,9 @@
 ## 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [github.com/MznStudiosOfc](https://github.com/MZNStudiosOfc)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
 
 ## 🌐 Socials:
