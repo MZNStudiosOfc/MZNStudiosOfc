@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=𝙷𝙴𝙻𝙻𝙾+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴!+𝙸+𝙰𝙼+𝙼𝚉𝙽+𝚂𝚃𝚄𝙳𝙸𝙾𝚂.;𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙼𝚉𝙽+𝚂𝚃𝚄𝙳𝙸𝙾𝚂!;𝙼𝚈+𝙽𝙰𝙼𝙴+𝙸𝚂+𝙼𝙰𝙰𝚉𝙸𝙽+𝙰𝙷𝙰𝙼𝙴𝙳.;𝙵𝙾𝙻𝙻𝙾𝚆+𝙼𝚈+𝙶𝙸𝚃𝙷𝚄𝙱+𝙿𝚁𝙾𝙵𝙸𝙻𝙴!!!;𝚃𝙷𝙰𝙽𝙺𝚂+𝙵𝙾𝚁+𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶+𝙼𝚈+𝙿𝚁𝙾𝙵𝙸𝙻𝙴!)](https://git.io/typing-svg)
